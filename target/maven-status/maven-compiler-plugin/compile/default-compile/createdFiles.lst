@@ -1,0 +1,7 @@
+com\magic\alphaPoint\GenericFunctions\UserLoginFunctions.class
+com\magic\alphaPoint\GenericFunctions\UserCommonFunctions.class
+com\magic\alphaPoint\GenericFunctions\UserSetFunctions.class
+com\magic\alphaPoint\GenericFunctions\UserLogoutFunctions.class
+com\magic\alphaPoint\TestPages\LoyaltyTokenPage.class
+com\magic\alphaPoint\Utils\EnvironmentPropertiesReader.class
+com\magic\alphaPoint\Utils\GenericUtils.class

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46210" started-at="2019-03-07T12:39:51Z" finished-at="2019-03-07T12:40:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46210" started-at="2019-03-07T12:39:51Z" finished-at="2019-03-07T12:40:37Z">
+      <class name="com.magic.alphaPoint.TestClasses.LoyaltyTokenTest">
+        <test-method status="PASS" signature="InitializeTestBaseSetup(java.lang.String)[pri:0, instance:com.magic.alphaPoint.TestClasses.LoyaltyTokenTest@4cc0edeb]" name="InitializeTestBaseSetup" is-config="true" duration-ms="14512" started-at="2019-03-07T18:09:51Z" finished-at="2019-03-07T18:10:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeTestBaseSetup -->
+        <test-method status="PASS" signature="UserLogin()[pri:0, instance:com.magic.alphaPoint.TestClasses.LoyaltyTokenTest@4cc0edeb]" name="UserLogin" duration-ms="9595" started-at="2019-03-07T18:10:05Z" finished-at="2019-03-07T18:10:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserLogin -->
+        <test-method status="PASS" signature="LoyaltyTokenTestCase()[pri:0, instance:com.magic.alphaPoint.TestClasses.LoyaltyTokenTest@4cc0edeb]" name="LoyaltyTokenTestCase" duration-ms="17078" started-at="2019-03-07T18:10:15Z" finished-at="2019-03-07T18:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoyaltyTokenTestCase -->
+        <test-method status="PASS" signature="UserLogout()[pri:0, instance:com.magic.alphaPoint.TestClasses.LoyaltyTokenTest@4cc0edeb]" name="UserLogout" duration-ms="4287" started-at="2019-03-07T18:10:32Z" finished-at="2019-03-07T18:10:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserLogout -->
+        <test-method status="PASS" signature="TearDownApplication()[pri:0, instance:com.magic.alphaPoint.TestClasses.LoyaltyTokenTest@4cc0edeb]" name="TearDownApplication" is-config="true" duration-ms="716" started-at="2019-03-07T18:10:36Z" finished-at="2019-03-07T18:10:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownApplication -->
+      </class> <!-- com.magic.alphaPoint.TestClasses.LoyaltyTokenTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="browser" value="chrome"/>
+  <test name="Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.magic.alphaPoint.TestClasses.LoyaltyTokenTest">
+        <methods>
+          <include name="InitializeTestBaseSetup"/>
+          <include name="LoyaltyTokenTestCase"/>
+          <include name="TearDownApplication"/>
+        </methods>
+      </class> <!-- com.magic.alphaPoint.TestClasses.LoyaltyTokenTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
